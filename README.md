@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Unbo10
+- 👀 I’m interested in operating systems, competitive programming, object-oriented programming (OOP), and machine learning
+- 🌱 I’m currently learning OOP and programming in Linux.
+- 🤝 I'd like to participate in any challenging project!
+- 📫 You can contact me via [LinkedIn](https://www.linkedin.com/in/santiago-rocha-pachon/)!
