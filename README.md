@@ -1,6 +1,6 @@
 <h1>Hello there!</h1>
 
-It is an <b>honor</b> to have you in my profile! I am a current CS student, a Linux novice, a problem-solving fan, and just another curious tech enthusiast who can spend hours in fron of a computer screen.
+It is an <b>honor</b> to have you in my profile! I am a current CS student, a Linux novice, a problem-solving fan, and just another curious tech enthusiast who can spend hours in front of a computer screen.
 
 You can check out my stats, repos and other profiles below. Hope you find something useful and interesting!
 
