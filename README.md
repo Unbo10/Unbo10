@@ -26,8 +26,8 @@ I am Santiago, a:
 
 If you share any of my interests and want to build something together, don't hesitate to contact me!
 
-<a href="mailto:srochap@unal.edu.co" target="_blank"><img src="https://img.shields.io/badge/Email-CC0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 15px 0; margin: 5px 15px 10px 10px; transform: scale(1.3);"></a>
-<a href="https://discord.com/users/inboard10" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="border-radius: 0 15px; margin: 5px 10px 10px 15px; transform: scale(1.3);"></a>
+<a href="mailto:srochap@unal.edu.co" target="_blank"><img src="https://img.shields.io/badge/Email-CC0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://discord.com/users/inboard10" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 
 You can check out my stats, repos, technologies I've worked with and other profiles below. Hope you find something useful and interesting!
 
@@ -35,12 +35,16 @@ You can check out my stats, repos, technologies I've worked with and other profi
 
 <h2>💻 Techs</h2>
 
-<img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=60" alt="Python" style="border-radius: 15px; margin: 15px; transform: scale(2.5);">
-<img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&logoWidth=60" alt="C++" style="border-radius: 15px; margin: 15px; transform: scale(2.5);">
-<img src="https://img.shields.io/badge/-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&logoWidth=60" alt="Bash" style="border-radius: 15px; margin: 15px; transform: scale(2.5);">
-<img src="https://img.shields.io/badge/-FCC624?style=for-the-badge&logo=linux&logoColor=black&logoWidth=60" alt="Linux" style="border-radius: 15px; margin: 15px; transform: scale(2.5);">
-<img src="https://img.shields.io/badge/-F37626?style=for-the-badge&logo=jupyter&logoColor=white&logoWidth=60" alt="Jupyter" style="border-radius: 15px; margin: 15px; transform: scale(2.5);">
-<img src="https://img.shields.io/badge/-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&logoWidth=60" alt="PyTorch" style="border-radius: 15px; margin: 15px; transform: scale(2.5);">
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="Bash">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="Linux">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="Jupyter">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="PyTorch">
+
+</div>
 
 <br>
 
