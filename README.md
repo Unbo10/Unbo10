@@ -26,8 +26,8 @@ I am Santiago, a:
 
 If you share any of my interests and want to build something together, don't hesitate to contact me!
 
-<a href="mailto:srochap@unal.edu.co" target="_blank"><img src="https://img.shields.io/badge/Email-CC0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://discord.com/users/inboard10" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="mailto:srochap@unal.edu.co" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-CC0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://discord.com/users/inboard10" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 
 You can check out my stats, repos, technologies I've worked with and other profiles below. Hope you find something useful and interesting!
 
@@ -58,8 +58,8 @@ You can check out my stats, repos, technologies I've worked with and other profi
 
 <h2>🌐 Other profiles</h2>
 
-<a href="https://www.linkedin.com/in/santiago-rocha-pachon/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://codeforces.com/profile/Inboard10" target="_blank"><img src="https://img.shields.io/badge/Codeforces-darkred?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
-<a href="https://ctf.hackthebox.com/user/profile/741953" target="_blank"><img src="https://img.shields.io/badge/Hack The Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box"></a>
+<a href="https://www.linkedin.com/in/santiago-rocha-pachon/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077b5?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://codeforces.com/profile/Inboard10" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Codeforces-darkred?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
+<a href="https://ctf.hackthebox.com/user/profile/741953" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Hack The Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box"></a>
 
 </div>
