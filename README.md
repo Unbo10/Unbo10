@@ -12,8 +12,8 @@ I am Santiago, a:
 <td style="border: none;">🔒 Cybersecurity enthusiast</td>
 </tr>
 <tr>
-<td style="border: none;">🐧 A Linux novice</td>
-<td style="border: none;">🧩 A problem-solving fan</td>
+<td style="border: none;">🐧 Linux novice</td>
+<td style="border: none;">🧩 Problem-solving fan</td>
 </tr>
 <tr>
 <td colspan="2" style="border: none;">🌎 Just another curious person looking to do something valuable for the world.</td>
